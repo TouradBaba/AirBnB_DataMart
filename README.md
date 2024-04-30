@@ -8,7 +8,6 @@ This document provides an overview of a comprehensive database management system
 
 - Refer to the included EER diagram files in the `EER Diagram` folder. The folder contains both an image (`EER Diagram (Enhanced Entity Relationship Diagram).png`) and a PDF (`EER Diagram.pdf`) for a visual representation of the database structure. The PDF file provides a clearer resolution compared to the image.
 
-I appreciate your clarification, and I hope this meets your requirements.
 
 #### Triggers
 
