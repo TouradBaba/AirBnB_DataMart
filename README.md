@@ -2,7 +2,7 @@
 
 ### Abstract
 
-This document provides an overview of a comprehensive database management system designed for a dynamic platform similar to Airbnb. The system is engineered to enhance user experiences for hosts, guests, and administrators by efficiently managing listings, bookings, payments, reviews, user ratings, and property statistics. Leveraging various database features such as triggers, events, and automation mechanisms, this system streamlines operations, reduces manual data entry, and provides real-time information.
+This document provides an overview of a comprehensive data mart designed for a dynamic platform similar to Airbnb. The system is engineered to enhance user experiences for hosts, guests, and administrators by efficiently managing listings, bookings, payments, reviews, user ratings, and property statistics. Leveraging various database features such as triggers, events, and automation mechanisms, this system streamlines operations, reduces manual data entry, and provides real-time information.
 
 #### Enhanced Entity-Relationship (EER) Diagram
 
